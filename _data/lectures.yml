@@ -18,272 +18,92 @@
 #   project: ...
 
 
-- date: Tuesday 08/23/22
-  topic: No class
+- date: Tuesday 01/17/23
+  topic: Course Overview
 
-- date: Thursday 08/25/22
-  topic: Course Overview, Making Decisions Under Uncertainty
-  video: https://www.youtube.com/watch?v=V-bJdqCZSHs&list=PLSEfoRJ1f3UOkidTHFjY4H6djXXER8LBD
-  slides: |
-      - [Slides](https://docs.google.com/presentation/d/1FSWRR4BfYHRnTRs_kZ4GkX7rRC0E4yhU5-inJSodXu4/edit?usp=sharing)
-      - (Optional reading) [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1)
-      - (Optional reading) [What are the most important statistical ideas of the past 50 years?](https://arxiv.org/pdf/2012.00174)
+- date: Thursday 01/19/23
+  topic: "Decisions I: Binary Decision-Making"
 
-- date: Tuesday 08/30/22
-  topic: Binary Decision-Making
-  lab: |
-      - [Lab 0](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab0/)
-  video: https://www.youtube.com/watch?v=0h-18ptVCUI&list=PLSEfoRJ1f3UNRgJzt7PNPQUmA7Erq_zAr&index=1
-  slides: |
-      - [Slides](https://docs.google.com/presentation/d/1-uVbbSDNum2C1fDfFf7vQQ5NTMzhreAVmytyMO1ZPJA/edit?usp=sharing)
-      - (Optional reading) [The Garden of Forking Paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
-  discussion: |
-      - [Disc. 1](assets/discussion/Discussion1.pdf)
-      - [Soln.](assets/discussion/Discussion1_Solutions.pdf)
+- date: Tuesday 01/24/23
+  topic: "Decisions II: P-Values and Multiple Hypothesis Testing"
 
-- date: Thursday 09/01/22
-  topic: P-Values and Multiple Hypothesis Testing
-  video: https://www.youtube.com/watch?v=0ZxSuJoUHWk&list=PLSEfoRJ1f3UODDpJfsffHP2F4WdPzGWSB
-  slides: |
-      - [Slides](https://docs.google.com/presentation/d/1aa5ObCumBLJ2WiuvHPFgY1XuIHYmxdAwUhaHZx4ImOM/edit?usp=sharing)
-      - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture03/p_value_thresholding.ipynb)
-  homework: |
-      - [HW 1](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=homeworks/hw1/)
-      - [PDF](assets/homework/hw1.pdf)
+- date: Thursday 01/26/23
+  topic: "Decisions III: Online False Discovery Rate Control & ROC curves"
 
-- date: Tuesday 09/06/22
-  topic: Online False Discovery Rate Control & ROC curves
-  lab: |
-      - [Lab 1](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab01/)
-  video: https://www.youtube.com/watch?v=xouSdEQfvYY&list=PLSEfoRJ1f3UO2QhICeAXUNvcJ4JKqvweA
-  slides: |
-      - [Slides](https://docs.google.com/presentation/d/18KqWpnK7JosPfVD2p-zPLCLOYPy8V_fDXoQEb8h0nks/edit?usp=sharing)
-      - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture04/binary_classification.ipynb)
-  discussion: |
-      - [Disc. 2](assets/discussion/Discussion2.pdf)
-      - [Soln.](assets/discussion/Discussion2_Solutions.pdf)
+- date: Tuesday 01/31/23
+  topic: "Decisions IV: Frequentist vs. Bayesian Decision-Making"
 
-- date: Thursday 09/08/22
-  topic: Frequentist vs. Bayesian Decision-Making
-  video: https://www.youtube.com/watch?v=0tZXjb20Cgc&list=PLSEfoRJ1f3UNPRJxzZuob052CGU9IG8Qe
-  slides: |
-      - [Slides](https://docs.google.com/presentation/d/1IvUazDlvCkaSgkJ2Srvhv_Uz9BfY-VyBWDklRWqB0mE/edit?usp=sharing)
-      - [Lecture Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture05/decision_theory.ipynb)
+- date: Thursday 02/02/23
+  topic: "Bayesian Modeling I: Overview of Bayesian Modeling"
 
-- date: Tuesday 09/13/22
-  topic: Overview of Bayesian Modeling
-  video: https://www.youtube.com/watch?v=fVg2kf0lmVk&list=PLSEfoRJ1f3UMtGnxWv5Kbapo2J02zxvtE
-  slides: |
-      - [Lecture Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture06/parameter_estimation.ipynb)
-  lab: |
-    - [Lab 2](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab02/)
-  discussion: |
-    - [Disc. 3](assets/discussion/Discussion3.pdf)
-    - [Soln.](assets/discussion/Discussion3_Solutions.pdf)
+- date: Tuesday 02/07/23
+  topic: "Bayesian Modeling II: Graphical Models"
 
-- date: Thursday 09/15/22
-  topic: Graphical Models
-  video: https://www.youtube.com/watch?v=EU2pTHV4Jz0&list=PLSEfoRJ1f3UMVF7HyFXWLqO9msxzz1QJF
-  slides: |
-      - [Slides](https://docs.google.com/presentation/d/1Aj6owI2sdgWZpT_kkG_uP-LMeaXKXET-a6onoignKxo/edit?usp=sharing)
-      - [Slides (annotated)](assets/notes/lecture07_annotated.pdf)
-      - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture07/lecture07.ipynb)
-  homework: |
-      - [HW 2](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=homeworks/hw2/)
-      - [PDF](assets/homework/hw2.pdf)
+- date: Thursday 02/09/23
+  topic: "Bayesian Modeling III: Rejection Sampling and Markov Chains"
 
-- date: Tuesday 09/20/22
-  topic: Rejection Sampling
-  lab: |
-    - [Lab 3](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab03/)
-  discussion: |
-    - [Disc. 4](assets/discussion/Discussion4.pdf)
-    - [Soln.](assets/discussion/Discussion4_Solutions.pdf)
-  video: https://www.youtube.com/watch?v=s3ptAeJFMbA&list=PLSEfoRJ1f3UN3R-f3-rS4-WW-9Q8Blp7n
-  slides: |
-      - [Slides](https://docs.google.com/presentation/d/1cyKrx-YOGcykB2jWQn43UgcPjkCWT2PMKlqWmCJ4cJ8/edit?usp=sharing)
-      - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture08/rejection_sampling.ipynb)
+- date: Tuesday 02/14/23
+  topic: "Bayesian Modeling IV: Markov Chain Monte Carlo (MCMC) and Gibbs Sampling"
 
+- date: Thursday 02/16/23
+  topic: "GLMs I: Regression and GLMs"
 
-- date: Thursday 09/22/22
-  topic: Markov Chain Monte Carlo (MCMC) and Gibbs Sampling
-  video: https://www.youtube.com/watch?v=1HT-ZcYQgPM&list=PLSEfoRJ1f3UM3c0imy81INQgP01C33Chc
-  slides: |
-      - [Slides](https://docs.google.com/presentation/d/1O9kGQr25cintNUU3UndNyei7x_IXMbmjbJUEx6AkV1k/edit?usp=sharing)
-      - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture09/gibbs_sampling.ipynb)
+- date: Tuesday 02/21/23
+  topic: "GLMs II: Model checking for GLMs"
 
-- date: Tuesday 09/27/22
-  topic: Regression and GLMs
-  lab: |
-      - [Lab 4](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab04/)
-  discussion: |
-      - [Disc. 5](assets/discussion/Discussion5.pdf)
-      - [Soln.](assets/discussion/Discussion5_Solutions.pdf)
-  video: https://www.youtube.com/watch?v=JKB6ibuge00&list=PLSEfoRJ1f3UM7Bgyi37qZdgZ49il9w8PC&index=1
-  slides: |
-    - [Regression review explainer](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture10/glms.ipynb)
-    - [GLM demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture10/glms.ipynb)
+- date: Thursday 02/23/23
+  topic: "GLMs III: Uncertainty quantification for GLMs"
 
-- date: Thursday 09/29/22
-  topic: Uncertainty quantification and model checking for GLMs (Bayesian)
-  slides: |
-      - [Slides](https://docs.google.com/presentation/d/1qKSVZ-aee3haSmmm-O0u5OK6osgIQsME3Rqg8B2kTl8/edit?usp=sharing)
-      - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture11/posterior_predictive_checks.ipynb)
-  video: https://www.youtube.com/watch?v=wc7IG2lTXVY&list=PLSEfoRJ1f3UNOrwy7rV3UcRRRrCBT88tA
-  homework: |
-      - [HW 3](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=homeworks/hw3/)
-      - [PDF](assets/homework/hw3.pdf)
+- date: Tuesday 02/28/23
+  topic: Midterm I (no lecture)
 
-- date: Tuesday 10/04/22
-  topic: Uncertainty quantification and model checking for GLMs (Frequentist)
-  discussion: |
-    - [Disc. 6](assets/discussion/Discussion6.pdf)
-    - [Soln.](assets/discussion/Discussion6_Solutions.pdf)
-    - [Past MT1 Review.](https://www.youtube.com/watch?v=BzK5hD3lyvA)
-  video: https://www.youtube.com/watch?v=-zqDr44xCPo&list=PLSEfoRJ1f3UO6xTDrREQzgmhs_xRv3kmw
-  slides: |
-    - [Slides](https://docs.google.com/presentation/d/1X1Vn8SxXfhu0EanJrjbR_MM4mv_GWko-NzSF-KtdqsM/edit?usp=sharing)
-    - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture12/bootstrap.ipynb)
-
-
-- date: Thursday 10/06/22
-  topic: Midterm 1
-
-- date: Tuesday 10/11/22
+- date: Thursday 03/02/23
   topic: Nonparametric Methods and Neural Networks
-  video: https://www.youtube.com/watch?v=P8nu5G7fg08&list=PLSEfoRJ1f3UOKzQUnzbz9GFk9_0n2cFdu
-  slides: |
-    - [Nonparametric methods notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture13/01_nonparametric.ipynb)
-    - [Neural networks and backpropagation notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture13/02_NNs_Autodiff_backprop.ipynb)
-  lab: |
-      - [Lab 5](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab05/)
 
-- date: Thursday 10/13/22
-  topic: Interpretability, Comparisons, and Summary
-  video: https://www.youtube.com/watch?v=UNkPgHGtmwI&list=PLSEfoRJ1f3UNN6UzVwml24TtAyGKSp7iv
-  slides: |
-    - [Slides](https://docs.google.com/presentation/d/1rVx1FW451FL4zeoD55Uw80kzTn1yvap1fWnfeRDxrlo/edit?usp=sharing)
-    - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture14/03_interp_demo.ipynb)
-    - (Optional reading) [Statistical Modeling, The Two Cultures, by Leo Breiman, pg 1-11](http://cda.psych.uiuc.edu/statistical_learning_course/breiman_two_cultures.pdf)
-    - (Optional video) [Prof. Cynthia Rudin on explainability](https://www.youtube.com/watch?v=I0yrJz8uc5Q)
+- date: Tuesday 03/07/23
+  topic: Neural Networks and Interpretability
 
-- date: Tuesday 10/18/22
-  topic: Causal Inference I, Problems with association
-  video: https://www.youtube.com/watch?v=OpoLPAJbr7w&list=PLSEfoRJ1f3UNnSTeDKN2Lkv5qF2WXKQY9
-  slides: |
-    - [Slides](https://docs.google.com/presentation/d/1EAowIVKMpuPvu9LHEH7o6VzCWf6wPOjaQd7AA0BkyDQ/edit?usp=sharing)
-    - [Notes 1: Association, correlation, and causation](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture15/01_association_correlation_causation.ipynb)
-    - [Notes 2: Quantifying association](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture15/02_quantifying_association.ipynb)
-    - [Notes 3: Causality and Potential Outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture15/03_causality.ipynb)
-    - Required reading for next time: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053)
-  lab: |
-      - [Lab 6](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab06/)
-  discussion: |
-      - [Disc. 7](assets/discussion/Discussion7.pdf)
-      - [Soln.](assets/discussion/Discussion7_Solutions.pdf)
+- date: Thursday 03/09/23
+  topic: "Causal Inference I: Association and Causation"
 
-- date: Thursday 10/20/22
-  topic: Causal Inference II, Randomized experiments
-  slides: |
-    - Required reading: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053)
-    - [Slides](https://docs.google.com/presentation/d/1OelDkwtrzlSZKH2oOnUyBWQGM3KbLdMtjPRKKtreS08/edit#slide=id.g16fe08be2f0_0_0)
-    - [Notes: ATE and randomized experiments](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture16/04_randomized_experiments.ipynb)
-    - [Notes: Instrumental variables](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture16/05_instrumental_variables.ipynb)
-  video: https://www.youtube.com/watch?v=FsHgkgVNDko&list=PLSEfoRJ1f3UO8PsohVuTHvemxC9Gynhsl&index=1
-  homework: |
-      - [HW 4](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=homeworks/hw4/)
-      - [PDF](assets/homework/hw4.pdf)
+- date: Tuesday 03/14/23
+  topic: "Causal Inference II: Randomized Experiments"
 
-- date: Tuesday 10/25/22
-  topic: Causal Inference III, Observational studies
-  lab: |
-    - [Lab 7](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab07/)
-  discussion: |
-      - [Disc. 8](assets/discussion/Discussion8.pdf)
-      - [Soln.](assets/discussion/Discussion8_Solutions.pdf)
-  video: https://www.youtube.com/watch?v=msqe4KlPiQY&list=PLSEfoRJ1f3UOIJTTI-LRb-vBg90go5h57
-  slides: |
-    - [Slides](https://docs.google.com/presentation/d/1DiRZVqK3agCiH8Lbkn7J3P2UhrQOb-YjK2UtbK5hVJI/edit?usp=sharing)
+- date: Thursday 03/16/23
+  topic: "Causal Inference III: Observational Studies"
 
-- date: Thursday 10/27/22
+- date: Tuesday 03/21/23
   topic: Concentration inequalities
-  video: https://www.youtube.com/watch?v=KiD4SHKpVho&list=PLSEfoRJ1f3UMnbUCUVnADwaBR8wsKt0tW
-  slides: |
-    - [Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture18/concentration.ipynb)
-    - [Handwritten notes](assets/notes/ConcentrationInequalitiesHandwritten.pdf)
 
-- date: Tuesday 11/01/22
+- date: Thursday 03/23/23
   topic: Bandits I
-  lab: |
-    - [Lab 8](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab08/)
-  discussion: |
-      - [Disc. 9](assets/discussion/Discussion9.pdf)
-      - [Soln.](assets/discussion/Discussion9_Solutions.pdf)
-  video: https://www.youtube.com/watch?v=9kA6kGfRA2A&list=PLSEfoRJ1f3UOvvRl51lPbBma0fgiM-ovZ
-  slides: |
-    - [Notes (fixed)](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture19/bandits_notes.ipynb)
-    - [slides](https://docs.google.com/presentation/d/1mpzP3o9LU65GErF1szTZKx0-suhIjN09w00cN4cl1MY/edit?usp=sharing)
 
-- date: Thursday 11/03/22
+- date: Tuesday 03/28/23
+  topic: Spring break
+
+- date: Thursday 03/30/23
+  topic: Spring break
+
+- date: Tuesday 04/04/23
   topic: Bandits II
-  homework: |
-      - [HW 5](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=homeworks/hw5/)
-      - [PDF](assets/homework/hw5.pdf)
-  video: https://www.youtube.com/watch?v=3TR014EjfSI&list=PLSEfoRJ1f3UNPwXnF26u94xH0j8N_rMq_
-  slides: |
-    - [Slides](https://docs.google.com/presentation/d/12AVFgxldP51EaXYucucbR5GIrzZaGWdiJ8QiPxtGfGg/edit?usp=sharing)
-    - [Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture19/bandits_notes.ipynb)
-    - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture19/MAB_demo.ipynb)
-    - Handwritten notes
 
-- date: Tuesday 11/08/22
-  topic: Reinforcement Learning I
-  lab: |
-    - [Lab 9](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab09/)
-  slides: |
-    - [Slides](https://docs.google.com/presentation/d/1moPfnNvaEJGlHp_w2MEx1zaFqe-2aFYo5ZxJ3Fg3ZEI/edit?usp=sharing)
-    - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture21/reinforcement_learning.ipynb)
-  video: https://www.youtube.com/watch?v=H11zP-DKIdc&list=PLSEfoRJ1f3UORjc44--IElbTdk1sUueYf
-  discussion: |
-    - [Disc. 10](assets/discussion/Discussion10.pdf)
-    - [Soln.](assets/discussion/Discussion10_Solutions.pdf)
+- date: Thursday 04/06/23
+  topic: Reinforcement Learning 1
 
-- date: Thursday 11/10/22
-  topic: Reinforcement Learning II
-  video: https://www.youtube.com/watch?v=_R8jQoNJhK4&list=PLSEfoRJ1f3UPHcUHYSxER-h4f7v-08VTw
-  slides: |
-      - [Slides](https://docs.google.com/presentation/d/1bPk36TIHAkCptkWU8WtiHYsJgoLBleX3FKG1dcwNDRk/edit?usp=sharing)
-      - [Handwritten Notes](assets/notes/QLearning.pdf)
+- date: Tuesday 04/11/23
+  topic: Reinforcement Learning 2
 
-- date: Tuesday 11/15/22
-  topic: Differential Privacy
-  lab: |
-    - [Lab 10](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab10/)
-  video: https://youtu.be/ilJ0hf_NOxk
-  slides: |
-      - Note this lecture is a full video by Jacob from Fall 2022
-      - [Slides](https://docs.google.com/presentation/d/1LZ-kZzLitzrt5-4SLOf_mayN0FEYxhuQRNUuEDgyKAo/edit?usp=sharing)
+- date: Thursday 04/13/23
+  topic: Midterm II (no lecture)
 
-
-- date: Thursday 11/17/22
-  topic: Midterm 2
-
-- date: Tuesday 11/22/22
-  topic: Robustness and Generalization
-  video: https://youtu.be/XKXBgnKMydc
-  slides: |
-      - Note this lecture is a full video by Ramesh from Spring 2022
-      - [Slides](https://docs.google.com/presentation/d/1LZ-kZzLitzrt5-4SLOf_mayN0FEYxhuQRNUuEDgyKAo/edit?usp=sharing)
-
-- date: Thursday 11/24/22
-  topic: Thanksgiving
-
-- date: Tuesday 11/29/22
+- date: Tuesday 04/18/23
   topic: Matching Markets and Game Theory
-  video: https://www.youtube.com/watch?v=nR0qhR4eUrg
-  slides: |
-    - Note this is lecture is a full video by Ramesh from Fall 2021 and covers two lectures
-    - [Slides](https://docs.google.com/presentation/d/1rksiU5LCQQxHUheIf2gfD_ad6qwbiMu1DKeDyJo-wDI/edit?usp=sharing)
 
-- date: Thursday 12/01/22
+- date: Thursday 04/20/23
+  topic: Differential Privacy
+
+- date: Tuesday 04/25/23
+  topic: Robustness and generalization
+
+- date: Thursday 04/27/23
   topic: Course Wrap-up

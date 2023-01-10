@@ -6,7 +6,7 @@ page_class: content-wide
 
 **This syllabus is under development and is subject to change.** Due dates for homework and lab assignments will be announced later.
 
-**If you are requesting an extension for a HW or lab assignment (due to DSP accommodations), please email the course email (data102@berkeley.edu) prior to the original deadline date.** Please avoid emailing the professors.
+<!-- **If you are requesting an extension for a HW or lab assignment (due to DSP accommodations), please email the course email (data102@berkeley.edu) prior to the original deadline date.** Please avoid emailing the professors. -->
 
 <script>
   function get_buttom() {
@@ -58,7 +58,7 @@ page_class: content-wide
   }
 
 </script>
-<a class="show_hide_description_click" href="javascript:void(0)" onclick="showAllDescription();">Show all lecture descriptions</a>
+<!-- <a class="show_hide_description_click" href="javascript:void(0)" onclick="showAllDescription();">Show all lecture descriptions</a> -->
 
 
 <div class="table-responsive">

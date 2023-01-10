@@ -10,7 +10,6 @@ Our goal in teaching this class is to help you learn the material. Our grading p
 You will be assessed through the following assignments:
 
 * (about) 14 weekly vitamins
-* (about) 14 weekly discussion worksheets
 * 6 homework assignments
 * 12 lab assignments
 * 2 midterms
@@ -19,7 +18,7 @@ You will be assessed through the following assignments:
 
 ## Grades
 
-Grades will be assigned using the following weighted components:
+<!-- Grades will be assigned using the following weighted components:
 
 * Vitamins: 5%
 * Discussion worksheet/attendance: 5%
@@ -27,12 +26,12 @@ Grades will be assigned using the following weighted components:
 * Labs: 15%
 * Midterm 1: 20%
 * Midterm 2: 20%
-* Final project: 15%
+* Final project: 15% -->
+To be determined.
 
 ### Grading criteria
 
 * Vitamins are weekly short assignments to check that you are keeping up with lectures. Vitamins should take fewer than 15 minutes to complete. Your two lowest vitamin scores will be dropped.
-* Discussion worksheets will be graded on completion (credit/no-credit). You may miss three discussion worksheets without penalty to overall discussion grade.
 * Homework will be graded on completion and correctness. No assignment may be dropped, but we have a slip day policy (see below).
 * Lab assignments will be graded on completion and correctness, but all test cases for autograded questions will be public. Your two lowest lab scores will be dropped.
 * When submitting assignments on Gradescope, **you must match each page to the corresponding question on Gradescope**. If you fail to do so, you may not receive credit for your work!
@@ -45,7 +44,7 @@ Grades will be assigned using the following weighted components:
 
 ## Exams
 
-There will be two midterms on October 6, 2022, and November 17, 2022. Midterms will be held from 7-9PM. You must take the midterm at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. **We will not accept any conflicts after the drop deadline** (except for emergencies).
+There will be two midterms on Feburary 28, 2023, and April 13, 2023. Midterms will be held from 7-9PM. You must take the midterm at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. **We will not accept any conflicts after the drop deadline** (except for emergencies).
 
 <!--The exams will be proctored, and will tentatively be held in person. Any remote exams will also be proctored, using a protocol similar to CS161.-->
 

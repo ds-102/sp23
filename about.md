@@ -3,12 +3,11 @@ layout: page
 title: "About this Course"
 ---
 
-<!-- # DS102: Data, Inference, and Decisions -->
 ## Data, Inference, and Decisions
 
 This course develops the probabilistic foundations of inference in data science. It builds a comprehensive view of the decision-making and modeling life cycle in data science, including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence intervals, causal inference, robustness, Thompson sampling, optimal control, Q-learning, differential privacy, fairness in classification, recommendation systems and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.
 
-This class is listed as [Data 102](https://classes.berkeley.edu/content/2022-spring-data-c102-001-lec-001).
+This class is listed as [Data 102](https://classes.berkeley.edu/content/2023-spring-data-c102-001-lec-001).
 
 ## Course email address
 
@@ -22,11 +21,11 @@ All course announcements will be made on Ed.
 
 ## Important Information
 
-**Lecture videos:** Lecture videos will be released on Tuesdays and Thursdays by 11AM, and will be accessible from the main site: we'll also make announcements on Ed when they're released. You can watch these videos at your own pace, but an instructor or GSI will be available to answer lecture questions on Ed in near real-time from 2-3PM on Tuesdays and Thursdays.
+**Lectures:** Lectures will be held in-person Tuesdays and Thursdays from 12:30 - 2 in Li Ka Shing 245. Recordings will be made available on bCourses within 24 hours.
 
-**Discussion session:** Discussion section will be held **in-person** on Fridays from 3:30-5 in 100 Lewis, led by your instructors. These sections will cover important problem-solving skills that bridge the concepts in the lecture videos with the skills you'll need to apply the ideas on the homework and beyond. Attendance is required: you must turn in your discussion worksheet at the end of class to receive credit.
+**Discussion sessions:** Discussion section will be held on Wednesdays, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in the lecture with the skills you'll need to apply the ideas on the homework and beyond.
 
-**Lab:** Mondays in-person. You can complete lab assignments on your own time, but you are highly encouraged to attend lab sessions to work with your classmates and get help from the staff.
+**Lab:** Labs will be held on Mondays in-person. You can complete lab assignments on your own time, but you are highly encouraged to attend lab sessions to work with your classmates and get help from the staff.
 
 **Contacting Course Staff**: The best way to contact course staff is using Ed, using a private post as needed—we'll be checking it regularly and should respond to most questions within a day or less. If you need to reach out to course staff and Ed isn't suitable, you can email [data102@berkeley.edu], and you should get a response within a few days. **Please avoid emailing professors or GSIs directly!** You are much less likely to get a timely response.
 
