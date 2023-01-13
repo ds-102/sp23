@@ -18,16 +18,14 @@ You will be assessed through the following assignments:
 
 ## Grades
 
-<!-- Grades will be assigned using the following weighted components:
+Grades will be assigned using the following weighted components:
 
 * Vitamins: 5%
-* Discussion worksheet/attendance: 5%
 * Homeworks: 20%
 * Labs: 15%
 * Midterm 1: 20%
 * Midterm 2: 20%
-* Final project: 15% -->
-To be determined.
+* Final project: 20%
 
 ### Grading criteria
 
@@ -44,7 +42,7 @@ To be determined.
 
 ## Exams
 
-There will be two midterms on Feburary 28, 2023, and April 13, 2023. Midterms will be held from 7-9PM. You must take the midterm at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. **We will not accept any conflicts after the drop deadline** (except for emergencies).
+There will be two midterms on **Feburary 28, 2023**, and **April 13, 2023**. Midterms will be held from 7-9PM. You must take the midterm at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. **We will not accept any conflicts after the drop deadline** (except for emergencies).
 
 <!--The exams will be proctored, and will tentatively be held in person. Any remote exams will also be proctored, using a protocol similar to CS161.-->
 
