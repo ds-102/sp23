@@ -63,6 +63,8 @@ Because data science is a relatively new and rapidly evolving discipline there i
   * Chapters 9 and 10 cover causal inference.
   * Chapter 12 covers reinforcement learning.
 
+* **[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)** This popular online graduate course is an excellent introduction to thinking about statistics through a Bayesian and causal lens. While it goes into much more detail than Data 102 does, lectures 2, 5, and 8 are all closely related to what we cover.
+
 * **[All of Statistics](https://www.stat.cmu.edu/~larry/all-of-statistics/)** This book is a great, broad introduction to mathematical statistics. It begins with probability concepts (e.g. Bayes’ theorem), works through many statistical inference topics (e.g. hypothesis testing, decision theory, and bootstrap, and also includes statistical modeling (e.g. regression and causal inference). The textbook as a whole covers many more ideas from statistics than will be used in or needed for this course, but students may still find it useful to reference specific topics within it to supplement ideas covered in lecture or review ideas from previous courses. For example:
   * Chapters 1-3 review some background ideas about probability and random variables
   * Chapter 12 discusses the statistical decision theory framework
