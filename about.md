@@ -29,12 +29,11 @@ All course announcements will be made on Ed.
 
 **Contacting Course Staff**: The best way to contact course staff is using Ed, using a private post as needed—we'll be checking it regularly and should respond to most questions within a day or less. If you need to reach out to course staff and Ed isn't suitable, you can email [data102@berkeley.edu], and you should get a response within a few days. **Please avoid emailing professors or GSIs directly!** You are much less likely to get a timely response.
 
+## Calendar
 
-## Office Hour, Lab, and Discussion Schedule
+<!-- Please see [Ed posts](TBA) for Zoom links for remote events. -->
 
-Please see [Ed posts](TBA) for Zoom links for remote events.
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=ZGF0YTEwMkBiZXJrZWxleS5lZHU&src=Y19kaWZpMzY0dmF1aXJ0MnNiMWRvdTFqYWozb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19vbjhpdnRzajhoNnFsaTQ5OHUxMDczOWxpZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19tc29wcmpjNmRzZWxlZGI4ZzBqNDd2azA0NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23F09300&color=%23E4C441&color=%237CB342" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showPrint=0&mode=WEEK&src=ZGF0YTEwMkBiZXJrZWxleS5lZHU&src=Y19kaWZpMzY0dmF1aXJ0MnNiMWRvdTFqYWozb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19tc29wcmpjNmRzZWxlZGI4ZzBqNDd2azA0NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19vbjhpdnRzajhoNnFsaTQ5OHUxMDczOWxpZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jMzgzY2YyMmQwNDk5NGYzNzZmODJlODQ3ZTk4NzMwMzRkOTRiZDUyYjY5ODhlYzkxYWM3ZGFhODFhODVlYjNiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y182NTQ3ZWNhMDFiNGJhYTU0N2FhMTVjY2I3MjYwNGY2MGU3MWQ3M2E4ZDEzMGU4Y2FhZjRiNjQ4MTdlZTc1MjUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y182ZGJlOWNjN2Y1ZWZiZjhmODkzN2NmNDFlZjFmZGFhZmI3NmM5NmMwZWQ1NTZjNzY2ZGVhZmRkZDViODA1MzBhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%23F09300&color=%237CB342&color=%23E4C441&color=%233F51B5&color=%23AD1457&color=%233F51B5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ## Prerequisites
