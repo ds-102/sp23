@@ -1,9 +1,9 @@
 #  This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
 
-- date: 2023/01/10
+- date: 2023/01/15
   text: |
-    - Welcome to Data 102! We are getting everything sorted out before semester starts. Hang tight!
+    - Welcome to Data 102! All future announcement will be made on Ed. Please post any questions on Ed.
 
 # Example
 # - date: 1/16/2018
