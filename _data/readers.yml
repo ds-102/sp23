@@ -4,3 +4,15 @@
 #   oh_info:
 #   - "OH: Th 11-12 @ ROOM"
 #   name:
+
+- email: czz129@berkeley.edu
+  image: "assets/staff/tina.JPG"
+  name: Tina Chen
+
+- email: ankita.janaki01@berkeley.edu
+  image: "assets/staff/ankita.jpeg"
+  name: Ankita Janakiraman
+
+- email: yuqiye@berkeley.edu
+  image: "assets/staff/yuqi.jpg"
+  name: Yuqi Ye
