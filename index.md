@@ -76,7 +76,7 @@ page_class: content-wide
         <th> Date </th>
         <th> Topic </th>
         <th> Slides </th>
-        <th> Lecture </th>
+        <th> Recordings </th>
         <th> Discussion Materials</th>
         <th> Lab </th>
         <th> Homework </th>

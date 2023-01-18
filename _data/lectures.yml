@@ -21,7 +21,8 @@
 - date: Tuesday 01/17/23
   topic: Course Overview
   slides: |
-    - [Slides](https://docs.google.com/presentation/d/1tJwhdcox7LTXKbUWsSTTT29uNWnJyQlaTIUQ6p_TbaE/edit?usp=sharing)
+    - [Slides](https://docs.google.com/presentation/d/1tJwhdcox7LTXKbUWsSTTT29uNWnJyQlaTIUQ6p_TbaE/edit?usp=sharing){:target="_blank"}
+  video: https://bcourses.berkeley.edu/courses/1522029/pages/lecture-1-course-overview
 
 - date: Thursday 01/19/23
   topic: "Decisions I: Binary Decision-Making"
