@@ -77,7 +77,7 @@ page_class: content-wide
         <th> Topic </th>
         <th> Slides </th>
         <th> Recordings </th>
-        <th> Discussion Materials</th>
+        <th> Discussion</th>
         <th> Lab </th>
         <th> Homework </th>
       </tr>
