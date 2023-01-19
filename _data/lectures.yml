@@ -30,6 +30,9 @@
 
 - date: Thursday 01/19/23
   topic: "Decisions I: Binary Decision-Making"
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1-uVbbSDNum2C1fDfFf7vQQ5NTMzhreAVmytyMO1ZPJA/edit?usp=sharing)
+      - (Optional reading) [The Garden of Forking Paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 
 - date: Tuesday 01/24/23
   topic: "Decisions II: P-Values and Multiple Hypothesis Testing"
