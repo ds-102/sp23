@@ -22,23 +22,22 @@
   topic: Course Overview, Making Decisions Under Uncertainty
   slides: |
     - [Slides](https://docs.google.com/presentation/d/1tJwhdcox7LTXKbUWsSTTT29uNWnJyQlaTIUQ6p_TbaE/edit?usp=sharing){:target="_blank"}
-    - [Annotated Slides](https://drive.google.com/file/d/1opYa4ZDh35GH28uELCsKI3xFwveqy55Q/view?usp=sharing)
+    - [Annotated Slides](https://drive.google.com/file/d/1opYa4ZDh35GH28uELCsKI3xFwveqy55Q/view?usp=sharing){:target="_blank"}
+    - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-1-course-overview){:target="_blank"}
   resources: |
     - (Optional reading) [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1){:target="_blank"}
     - (Optional reading) [What are the most important statistical ideas of the past 50 years?](https://arxiv.org/pdf/2012.00174){:target="_blank"}
-  video: https://bcourses.berkeley.edu/courses/1522029/pages/lecture-1-course-overview
 
 - date: Thursday 01/19/23
   topic: "Decisions I: Binary Decision-Making"
   slides: |
       - [Slides](https://docs.google.com/presentation/d/1gYARGZba4tuHJdkqtv8MIjonFCDLiEoJvk2Z0NOY9vM/edit?usp=sharing){:target="_blank"}
-      - [Annotated Slides](https://drive.google.com/file/d/1z6qCvA9nL4aB5ub3YlDcsJOS2hYMxja3/view?usp=sharing)
+      - [Annotated Slides](https://drive.google.com/file/d/1z6qCvA9nL4aB5ub3YlDcsJOS2hYMxja3/view?usp=sharing){:target="_blank"}
+      - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-2-binary-decision-making){:target="_blank"}
   resources: |
       - (Optional reading) [The Garden of Forking Paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf){:target="_blank"}
-  video: https://bcourses.berkeley.edu/courses/1522029/pages/lecture-2-binary-decision-making
-  homework: |
-      - [HW 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw1){:target="_blank"}
-      - [PDF](assets/homework/hw1.pdf){:target="_blank"}
+  assignment: |
+      - [HW 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw1){:target="_blank"} ([PDF](assets/homework/hw1.pdf){:target="_blank"})
 
 - date: Tuesday 01/24/23
   topic: "Decisions II: P-Values and Multiple Hypothesis Testing"

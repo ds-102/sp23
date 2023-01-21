@@ -75,11 +75,9 @@ page_class: content-wide
         <th> Lecture </th>
         <th> Date </th>
         <th> Topic </th>
-        <th> Slides </th>
-        <th> Recordings </th>
+        <th> Lecture </th>
         <th> Discussion</th>
-        <th> Lab </th>
-        <th> Homework </th>
+        <th> Assignment </th>
       </tr>
     </thead>
     <tbody>

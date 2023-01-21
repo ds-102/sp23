@@ -108,13 +108,13 @@
     {% endif %}
 
     <!-- Video Column -->
-    {% if lecture.video %}
+    <!-- {% if lecture.video %}
       <td class="lecture__video">
           <a href="{{ lecture.video }}" target="_blank">Recording</a>
       </td>
     {% else %}
       <td class="lecture__video"> </td>
-    {% endif %}
+    {% endif %} -->
 
     <!-- Discussion Recordings Column
     {% if lecture.recording %}
@@ -134,23 +134,23 @@
       <td class="disc__info"> </td>
     {% endif %}
 
-    <!-- Lab Column -->
-    {% if lecture.lab %}
+    <!-- Assignment Column -->
+    {% if lecture.assignment %}
       <td class="lab__info">
-          {{ lecture.lab | markdownify }}
+          {{ lecture.assignment | markdownify }}
       </td>
     {% else %}
       <td class="lab__info"> </td>
     {% endif %}
 
-    <!-- Homework Column -->
+    <!-- Homework Column
     {% if lecture.homework %}
       <td class="hw__info">
           {{ lecture.homework | markdownify }}
       </td>
     {% else %}
       <td class="hw__info"> </td>
-    {% endif %}
+    {% endif %} -->
 
 
 
