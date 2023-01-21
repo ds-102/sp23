@@ -36,6 +36,9 @@
   resources: |
       - (Optional reading) [The Garden of Forking Paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf){:target="_blank"}
   video: https://bcourses.berkeley.edu/courses/1522029/pages/lecture-2-binary-decision-making
+  homework: |
+      - [HW 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw1){:target="_blank"}
+      - [PDF](assets/homework/hw1.pdf){:target="_blank"}
 
 - date: Tuesday 01/24/23
   topic: "Decisions II: P-Values and Multiple Hypothesis Testing"
