@@ -44,6 +44,8 @@
 
 - date: Tuesday 01/24/23
   topic: "Decisions II: P-Values and Multiple Hypothesis Testing"
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1yXfFQ98Yda-SnvKMvAM6p4FNU3rkf6cej1togo-dprE/edit?usp=sharing){:target="_blank"}
 
 - date: Thursday 01/26/23
   topic: "Decisions III: Online False Discovery Rate Control & ROC curves"
