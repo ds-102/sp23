@@ -55,7 +55,8 @@ Data 102 builds on material taught in previous data science courses. You may fin
 
 ## Reading Resources
 
-Because data science is a relatively new and rapidly evolving discipline there is no single *ideal* textbook for this subject. The instructors are in the process of developing an online textbook for the course, but this is still a work in progress. You can find useful reading among the following collection of books, all of which are free.
+* **[Data 102 Textbook](https://data102.org/ds-102-book/)** Because data science is a relatively new and rapidly evolving discipline there is no single *ideal* textbook for this subject. The instructors are in the process of developing this online textbook for the course, they will be updating the textbook as semester progresses.
+  You can also find useful reading among the following collection of books, all of which are free
 
 * **[Patterns, Predictions, and Actions](https://mlstory.org/)** This book is a great introduction to many of the topics we cover in this course, as well as several other important topics in advanced machine learning and data science. The following chapters are particularly relevant to this class:
   * Chapter 2 covers decision theory.
