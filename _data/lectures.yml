@@ -45,6 +45,7 @@
   topic: "Decisions II: P-Values and Multiple Hypothesis Testing"
   slides: |
       - [Slides](https://docs.google.com/presentation/d/1yXfFQ98Yda-SnvKMvAM6p4FNU3rkf6cej1togo-dprE/edit?usp=sharing){:target="_blank"}
+      - [Annotated Slides](https://drive.google.com/file/d/1OAgddjDIbmSLGuG2iql9j0iA1UCASXPR/view?usp=sharing){:target="_blank"}
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture03/p_value_thresholding.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-3-multiple-hypothesis-testing-and-error-rate-correction){:target="_blank"}
   discussion: |
