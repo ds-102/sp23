@@ -78,10 +78,11 @@
 - date: Thursday 02/02/23
   topic: "Bayesian Modeling I: Overview of Bayesian Modeling"
   slides: |
-      - [Lecture Notes and Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture06/parameter_estimation.ipynb)
-      - [Slides](https://docs.google.com/presentation/d/1dCsHyszghPfGWfGpMZe3dP99MpWMIZ46UmawLNMgkS4/edit?usp=sharing)
-      - [Slides (PDF)](https://drive.google.com/file/d/1o28szn-PrO5htGqBN4PsPXsPqlZVRoIw/view?usp=share_link)
+      - [Lecture Notes and Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture06/parameter_estimation.ipynb){:target="_blank"}
+      - [Slides](https://docs.google.com/presentation/d/1dCsHyszghPfGWfGpMZe3dP99MpWMIZ46UmawLNMgkS4/edit?usp=sharing){:target="_blank"}
+      - [Slides (PDF)](https://drive.google.com/file/d/1o28szn-PrO5htGqBN4PsPXsPqlZVRoIw/view?usp=share_link){:target="_blank"}
       - Board notes (posted after lecture)
+      - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-6-bayesian-and-frequentist-modeling){:target="_blank"}
 
 
 - date: Tuesday 02/07/23
