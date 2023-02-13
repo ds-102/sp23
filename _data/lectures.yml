@@ -102,6 +102,8 @@
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture08/rejection_sampling.ipynb){:target="_blank"}
       - [Slides](https://docs.google.com/presentation/d/15vdURu2kcpcbB5NXSl7Q_dJ2uT2o-ixEAuQc9M_jbvs/edit?usp=sharing){:target="_blank"} ([PDF](https://drive.google.com/file/d/1OpPOHhmm-AcIXqUBBEeltP29xe8njB8n/view?usp=share_link){:target="_blank"}) (annotated)
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-8-more-graphical-models-and-rejection-sampling){:target="_blank"}
+  assignment: |
+      - [Vitamin 4](https://www.gradescope.com/courses/486789/assignments/2653085/){:target="_blank"} (Due Feb 12)
 
 - date: Tuesday 02/14/23
   topic: "Bayesian Modeling IV: Markov Chain Monte Carlo (MCMC) and Gibbs Sampling"
