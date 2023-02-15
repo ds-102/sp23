@@ -111,6 +111,7 @@
   slides: |
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture09/gibbs_sampling.ipynb){:target="_blank"}
       - [Slides](https://docs.google.com/presentation/d/1HdQxNMktYWqDlg_6VFTEPKlarsNy6T_EbGWpMvIK88s/edit?usp=sharing){:target="_blank"} ([PDF](https://drive.google.com/file/d/1aX0ZMh0jUV3wQj1yRLxq10zuhPxgzSIX/view?usp=share_link){:target="_blank"})
+      - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-9-markov-chain-monte-carlo-and-gibbs-sampling){:target="_blank"}
 
 - date: Thursday 02/16/23
   topic: "GLMs I: Regression and GLMs"
