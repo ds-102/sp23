@@ -119,7 +119,7 @@
 - date: Thursday 02/16/23
   topic: "GLMs I: Regression and GLMs"
   slides: |
-      - [Slides](https://drive.google.com/file/d/1-kBeTaWu-uTfCyXH7C7N0BA8hkJ5q8em/view?usp=share_link){:target="_blank"}
+      - [Slides](https://drive.google.com/file/d/1DQ0VtnrgbegqvNTNDxBazVcRAZ_8PpCT/view?usp=sharing){:target="_blank"}
       - [Regression Review notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture10/Regression%20review.ipynb){:target="_blank"}
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture10/glms.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-10-regression-and-generalized-linear-models){:target="_blank"}
