@@ -123,6 +123,9 @@
       - [Regression Review notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture10/Regression%20review.ipynb){:target="_blank"}
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture10/glms.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-10-regression-and-generalized-linear-models){:target="_blank"}
+  assignment: |
+      - [Vitamin 5](https://www.gradescope.com/courses/486789/assignments/2675540){:target="_blank"} (Due Feb 19)
+      - [Lab 4](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flabs%2Flab04%2Flab04.ipynb){:target="_blank"} (Due Feb 24)
 
 - date: Tuesday 02/21/23
   topic: "GLMs II: Model checking for GLMs"
