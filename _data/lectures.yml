@@ -130,7 +130,7 @@
 - date: Tuesday 02/21/23
   topic: "GLMs II: Model checking for GLMs"
   slides: |
-      - [Slides](https://drive.google.com/file/d/1Gi9UNTAl9jBz1Vo1DzJSrHMn8WU0u-Me/view?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1POxg6RkWc9RPxdBxn7x8REYyRSY2VuBl/view?usp=sharing){:target="_blank"})
+      - [Slides](https://drive.google.com/file/d/1Gi9UNTAl9jBz1Vo1DzJSrHMn8WU0u-Me/view?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1_3_LBx1nQkjhQklql_wMDvm14ts-oZWM/view?usp=share_link){:target="_blank"})
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture11/posterior_predictive_checks.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-11-quantifying-uncertainty-and-model-checking-in-bayesian-glm){:target="_blank"}
   discussion: |
