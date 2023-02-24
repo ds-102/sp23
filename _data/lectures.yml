@@ -130,7 +130,7 @@
 - date: Tuesday 02/21/23
   topic: "GLMs II: Model checking for GLMs"
   slides: |
-      - [Slides](https://drive.google.com/file/d/1Gi9UNTAl9jBz1Vo1DzJSrHMn8WU0u-Me/view?usp=sharing){:target="_blank"}
+      - [Slides](https://drive.google.com/file/d/1Gi9UNTAl9jBz1Vo1DzJSrHMn8WU0u-Me/view?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1POxg6RkWc9RPxdBxn7x8REYyRSY2VuBl/view?usp=sharing){:target="_blank"})
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture11/posterior_predictive_checks.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-11-quantifying-uncertainty-and-model-checking-in-bayesian-glm){:target="_blank"}
   discussion: |
@@ -140,7 +140,7 @@
 - date: Thursday 02/23/23
   topic: "GLMs III: Uncertainty quantification for GLMs"
   slides: |
-      - [Slides](https://drive.google.com/file/d/1M5cJG2BTGOCdQw6vd45rADBZKRS1OngW/view?usp=sharing){:target="_blank"}
+      - [Slides](https://drive.google.com/file/d/1M5cJG2BTGOCdQw6vd45rADBZKRS1OngW/view?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1S9uNvhrhwDAZMhATNRNiugz72O-gGCsB/view?usp=share_link){:target="_blank"})
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture12/bootstrap.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-12-quantifying-uncertainty-and-model-checking-in-frequentist-glm){:target="_blank"}
       - [Recording (Fall 22)](https://www.youtube.com/watch?v=wc7IG2lTXVY&list=PLSEfoRJ1f3UNOrwy7rV3UcRRRrCBT88tA){:target="_blank"}
