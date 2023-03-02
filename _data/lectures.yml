@@ -150,12 +150,21 @@
 
 - date: Tuesday 02/28/23
   topic: Midterm I (no lecture)
+      - [Demo notebook](){:target="_blank"}
+      - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-12-quantifying-uncertainty-and-model-checking-in-frequentist-glm){:target="_blank"}
+      - [Recording (Fall 22)](https://www.youtube.com/watch?v=-zqDr44xCPo&list=PLSEfoRJ1f3UO6xTDrREQzgmhs_xRv3kmw){:target="_blank"}
 
 - date: Thursday 03/02/23
-  topic: Nonparametric Methods and Neural Networks
+  topic: Nonparametric Methods and Interpretability
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1ufE7zp5coJqKMuDQpCpByUGLxcje9_uYAqRqEuwVuyk/edit?usp=sharing) ([PDF](https://drive.google.com/file/d/1mtBWszM_OaJSOK13hHq5zJH5DH7Plu3_/view?usp=share_link))
+      - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture13/nonparametric_interp.ipynb)
+      - Recording
 
 - date: Tuesday 03/07/23
-  topic: Neural Networks and Interpretability
+  topic: Neural Networks and Modeling Summary
+  resources: |
+      - *Required* reading: [Statistical Modeling, The Two Cultures, by Leo Breiman (pp 1-11)](http://cda.psych.uiuc.edu/statistical_learning_course/breiman_two_cultures.pdf){:target="_blank"}
 
 - date: Thursday 03/09/23
   topic: "Causal Inference I: Association and Causation"
