@@ -166,7 +166,7 @@
   resources: |
       - *Required* reading: [Statistical Modeling, The Two Cultures, by Leo Breiman (pp 1-11)](http://cda.psych.uiuc.edu/statistical_learning_course/breiman_two_cultures.pdf){:target="_blank"}
   slides: |
-      - [Slides](https://docs.google.com/presentation/d/1BH96nbs3W57RgkRvFEdNO6AQ93YHDhGHNIKsdD6clto/edit?usp=sharing){:target="_blank"} ([PDF](https://drive.google.com/file/d/1vovMwhsBEQCPQosPMZJhIA-bmwGgkt7x/view?usp=share_link){:target="_blank"}) ([Annotated]())
+      - [Slides](https://docs.google.com/presentation/d/1BH96nbs3W57RgkRvFEdNO6AQ93YHDhGHNIKsdD6clto/edit?usp=sharing){:target="_blank"} ([PDF](https://drive.google.com/file/d/1vovMwhsBEQCPQosPMZJhIA-bmwGgkt7x/view?usp=share_link){:target="_blank"}) ([Annotated](https://drive.google.com/file/d/1cMOHije3mlJx4oDE2PrDYPxYrGiyD9Sj/view?usp=share_link))
       - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture14/nns_backprop_autodiff.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-14-neural-networks-and-backpropagation){:target="_blank"}
   discussion: |
