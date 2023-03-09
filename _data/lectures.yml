@@ -175,6 +175,13 @@
 
 - date: Thursday 03/09/23
   topic: "Causal Inference I: Association and Causation"
+  resources: |
+      - *Required* reading for next time: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html){:target="_blank"} ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053){:target="_blank"}
+  slides: |
+    - [Slides](https://drive.google.com/file/d/1p_GHE7Xk_j_JwJYEYJbLaNyvNQGoDZiz/view?usp=sharing){:target="_blank"}
+    - [Notes 1: Association, correlation, and causation](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture15/01_association_correlation_causation.ipynb)
+    - [Notes 2: Quantifying association](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture15/02_quantifying_association.ipynb)
+    - [Notes 3: Causality and Potential Outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture15/03_causality.ipynb)
 
 - date: Tuesday 03/14/23
   topic: "Causal Inference II: Randomized Experiments"
