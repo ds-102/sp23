@@ -21,7 +21,7 @@
 - date: Tuesday 01/17/23
   topic: Course Overview, Making Decisions Under Uncertainty
   slides: |
-    - [Slides](https://docs.google.com/presentation/d/1tJwhdcox7LTXKbUWsSTTT29uNWnJyQlaTIUQ6p_TbaE/edit?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1opYa4ZDh35GH28uELCsKI3xFwveqy55Q/view?usp=sharing){:target="_blank"})
+    - [Slides](https://docs.google.com/presentation/d/1tJwhdcox7LTXKbUWsSTTT29uNWnJyQlaTIUQ6p_TbaE/edit?usp=sharing){:target="_blank"} ([Annotated](https://drive.google.com/file/d/1opYa4ZDh35GH28uELCsKI3xFwveqy55Q/view?usp=sharing){:target="_blank"})
     - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-1-course-overview){:target="_blank"}
   resources: |
     - (Optional reading) [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1){:target="_blank"}
@@ -30,7 +30,7 @@
 - date: Thursday 01/19/23
   topic: "Decisions I: Binary Decision-Making"
   slides: |
-      - [Slides](https://docs.google.com/presentation/d/1gYARGZba4tuHJdkqtv8MIjonFCDLiEoJvk2Z0NOY9vM/edit?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1Bw34wn6mutTwzkFkTMyED-s4YGNAa52z/view?usp=sharing){:target="_blank"})
+      - [Slides](https://docs.google.com/presentation/d/1gYARGZba4tuHJdkqtv8MIjonFCDLiEoJvk2Z0NOY9vM/edit?usp=sharing){:target="_blank"} ([Annotated](https://drive.google.com/file/d/1Bw34wn6mutTwzkFkTMyED-s4YGNAa52z/view?usp=sharing){:target="_blank"})
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-2-binary-decision-making){:target="_blank"}
 
   resources: |
@@ -43,7 +43,7 @@
 - date: Tuesday 01/24/23
   topic: "Decisions II: P-Values and Multiple Hypothesis Testing"
   slides: |
-      - [Slides](https://docs.google.com/presentation/d/1yXfFQ98Yda-SnvKMvAM6p4FNU3rkf6cej1togo-dprE/edit?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1_yKaikj8tQxRJcloS3IVe0eAl9LV_6fx/view?usp=sharing){:target="_blank"})
+      - [Slides](https://docs.google.com/presentation/d/1yXfFQ98Yda-SnvKMvAM6p4FNU3rkf6cej1togo-dprE/edit?usp=sharing){:target="_blank"} ([Annotated](https://drive.google.com/file/d/1_yKaikj8tQxRJcloS3IVe0eAl9LV_6fx/view?usp=sharing){:target="_blank"})
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture03/p_value_thresholding.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-3-multiple-hypothesis-testing-and-error-rate-correction){:target="_blank"}
   discussion: |
@@ -53,7 +53,7 @@
 - date: Thursday 01/26/23
   topic: "Decisions III: Online False Discovery Rate Control & ROC curves"
   slides: |
-      - [Slides](https://docs.google.com/presentation/d/10wENWbDVZJGKpguR_UOBJlYSWXyBAJr7uGa7hLLkMi8/edit?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1xC_XJNy7kW_FBi7UsWTCMUhaess80o9M/view?usp=sharing){:target="_blank"})
+      - [Slides](https://docs.google.com/presentation/d/10wENWbDVZJGKpguR_UOBJlYSWXyBAJr7uGa7hLLkMi8/edit?usp=sharing){:target="_blank"} ([Annotated](https://drive.google.com/file/d/1xC_XJNy7kW_FBi7UsWTCMUhaess80o9M/view?usp=sharing){:target="_blank"})
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture04/binary_classification.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-4-online-decision-making-neyman-pearson-and-binary-classification){:target="_blank"}
   assignment: |
@@ -63,7 +63,7 @@
 - date: Tuesday 01/31/23
   topic: "Decisions IV: Frequentist vs. Bayesian Decision-Making"
   slides: |
-      - [Slides](https://drive.google.com/file/d/1VsQrA_P9Ekf27vNe7bdOwJpx9_i3feKJ/view?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1wH_S3622XXCYaHXNDXSPL7B6BleDcErd/view?usp=sharing){:target="_blank"})
+      - [Slides](https://drive.google.com/file/d/1VsQrA_P9Ekf27vNe7bdOwJpx9_i3feKJ/view?usp=sharing){:target="_blank"} ([Annotated](https://drive.google.com/file/d/1wH_S3622XXCYaHXNDXSPL7B6BleDcErd/view?usp=sharing){:target="_blank"})
       - [Lecture Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture05/decision_theory.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-5-decision-theory){:target="_blank"}
   discussion: |
@@ -87,7 +87,7 @@
   topic: "Bayesian Modeling II: Graphical Models"
   slides: |
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture07/lecture07.ipynb){:target="_blank"}
-      - [Slides](https://docs.google.com/presentation/d/16ZQHUZ0D4yOxK8NPZdyfa3QLrhI8mqgPAeVbcbI3I1M/edit?usp=sharing){:target="_blank"} ([PDF](https://drive.google.com/file/d/1gKXF3E01T2eUk-pdkhTxDoM62P-4ywpW/view?usp=share_link){:target="_blank"}) ([annotated](https://drive.google.com/file/d/1Zh1G1GQRo1qoLZ43Tac2CjY_TFy6QmUG/view?usp=share_link){:target="_blank"})
+      - [Slides](https://docs.google.com/presentation/d/16ZQHUZ0D4yOxK8NPZdyfa3QLrhI8mqgPAeVbcbI3I1M/edit?usp=sharing){:target="_blank"} ([PDF](https://drive.google.com/file/d/1gKXF3E01T2eUk-pdkhTxDoM62P-4ywpW/view?usp=share_link){:target="_blank"}) ([Annotated](https://drive.google.com/file/d/1Zh1G1GQRo1qoLZ43Tac2CjY_TFy6QmUG/view?usp=share_link){:target="_blank"})
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-7-graphical-models){:target="_blank"} (note that the audio stops around 51:00 see three videos below that cover the same content)
       - [Video: specifying a model for exoplanet data](https://www.youtube.com/watch?v=KaD7uJeK_JI){:target="_blank"}
       - [Video: graphical model for exoplanet data](https://www.youtube.com/watch?v=e6CoEsLiMXc&list=PLSEfoRJ1f3UMVF7HyFXWLqO9msxzz1QJF){:target="_blank"}
@@ -119,7 +119,7 @@
 - date: Thursday 02/16/23
   topic: "GLMs I: Regression and GLMs"
   slides: |
-      - [Slides](https://drive.google.com/file/d/1JjqdTqkEGM3PxhUyJqcT_TtnIcWic--z/view?usp=share_link){:target="_blank"}
+      - [Slides](https://drive.google.com/file/d/1g8sfNlngiVNmsfELk712rKKjwXy0JLon/view?usp=sharing){:target="_blank"}
       - [Regression Review notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture10/Regression%20review.ipynb){:target="_blank"}
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture10/glms.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-10-regression-and-generalized-linear-models){:target="_blank"}
@@ -130,7 +130,7 @@
 - date: Tuesday 02/21/23
   topic: "GLMs II: Model checking for GLMs"
   slides: |
-      - [Slides](https://drive.google.com/file/d/1Gi9UNTAl9jBz1Vo1DzJSrHMn8WU0u-Me/view?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1_3_LBx1nQkjhQklql_wMDvm14ts-oZWM/view?usp=share_link){:target="_blank"})
+      - [Slides](https://drive.google.com/file/d/1Gi9UNTAl9jBz1Vo1DzJSrHMn8WU0u-Me/view?usp=sharing){:target="_blank"} ([Annotated](https://drive.google.com/file/d/1_3_LBx1nQkjhQklql_wMDvm14ts-oZWM/view?usp=share_link){:target="_blank"})
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture11/posterior_predictive_checks.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-11-quantifying-uncertainty-and-model-checking-in-bayesian-glm){:target="_blank"}
   discussion: |
@@ -140,7 +140,7 @@
 - date: Thursday 02/23/23
   topic: "GLMs III: Uncertainty quantification for GLMs"
   slides: |
-      - [Slides](https://drive.google.com/file/d/1M5cJG2BTGOCdQw6vd45rADBZKRS1OngW/view?usp=sharing){:target="_blank"} ([annotated](https://drive.google.com/file/d/1S9uNvhrhwDAZMhATNRNiugz72O-gGCsB/view?usp=share_link){:target="_blank"})
+      - [Slides](https://drive.google.com/file/d/1M5cJG2BTGOCdQw6vd45rADBZKRS1OngW/view?usp=sharing){:target="_blank"} ([Annotated](https://drive.google.com/file/d/1S9uNvhrhwDAZMhATNRNiugz72O-gGCsB/view?usp=share_link){:target="_blank"})
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture12/bootstrap.ipynb){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-12-quantifying-uncertainty-and-model-checking-in-frequentist-glm){:target="_blank"}
       - [Recording (Fall 22)](https://www.youtube.com/watch?v=-zqDr44xCPo&list=PLSEfoRJ1f3UO6xTDrREQzgmhs_xRv3kmw){:target="_blank"}
@@ -178,7 +178,7 @@
   resources: |
       - *Required* reading for next time: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html){:target="_blank"} ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053){:target="_blank"}
   slides: |
-    - [Slides](https://drive.google.com/file/d/1p_GHE7Xk_j_JwJYEYJbLaNyvNQGoDZiz/view?usp=sharing){:target="_blank"}
+    - [Slides](https://drive.google.com/file/d/1p_GHE7Xk_j_JwJYEYJbLaNyvNQGoDZiz/view?usp=sharing){:target="_blank"} ([Annotated](https://drive.google.com/file/d/11JFL3lEiLqWzAD_KZ45bcRqCEDbzY5Fh/view?usp=sharing){:target="_blank"})
     - [Notes 1: Association, correlation, and causation](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture15/01_association_correlation_causation.ipynb){:target="_blank"}
     - [Notes 2: Quantifying association](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture15/02_quantifying_association.ipynb){:target="_blank"}
     - [Notes 3: Causality and Potential Outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture15/03_causality.ipynb){:target="_blank"}
