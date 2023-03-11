@@ -158,7 +158,7 @@
       - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture13/nonparametric_interp.ipynb)
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-13-nonparametric-methods-and-interpretability){:target="_blank"}
   assignment: |
-      - [Vitamin 7](https://www.gradescope.com/courses/486789/assignments/2715449){:target="_blank"} (Due Mar 4)
+      - [Vitamin 7](https://www.gradescope.com/courses/486789/assignments/2715449){:target="_blank"} (Due Mar 5)
       - [Lab 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flabs%2Flab05%2Flab05.ipynb){:target="_blank"} (Due Mar 8)
 
 - date: Tuesday 03/07/23
@@ -185,6 +185,7 @@
     - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-15-causal-inference-part-1-correlation-vs-causation){:target="_blank"}
   assignment: |
     - [Vitamin 8](https://www.gradescope.com/courses/486789/assignments/2715463/){:target="_blank"} (Due Mar 12)
+    - [Lab 6](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flabs%2Flab06%2Flab06.ipynb){:target="_blank"} (Due Mar 15)
 
 - date: Tuesday 03/14/23
   topic: "Causal Inference II: Randomized Experiments"
