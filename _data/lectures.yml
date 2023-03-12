@@ -186,6 +186,7 @@
   assignment: |
     - [Vitamin 8](https://www.gradescope.com/courses/486789/assignments/2715463/){:target="_blank"} (Due Mar 12)
     - [Lab 6](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flabs%2Flab06%2Flab06.ipynb){:target="_blank"} (Due Mar 15)
+    - [HW 4](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw4){:target="_blank"} ([PDF](assets/homework/hw4.pdf){:target="_blank"}) (Due Mar 24)
 
 - date: Tuesday 03/14/23
   topic: "Causal Inference II: Randomized Experiments"
