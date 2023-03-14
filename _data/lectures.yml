@@ -190,6 +190,11 @@
 
 - date: Tuesday 03/14/23
   topic: "Causal Inference II: Randomized Experiments"
+  resources: |
+      - *Required* reading: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html){:target="_blank"} ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053){:target="_blank"}
+  slides: |
+    - [Slides](https://drive.google.com/file/d/1J2jykPkB95mmeHvrxaWYYTd0DbEp8T17/view?usp=sharing){:target="_blank"}
+    - [Notes: ATE and randomized experiments](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture16/04_randomized_experiments.ipynb)
 
 - date: Thursday 03/16/23
   topic: "Causal Inference III: Observational Studies"
