@@ -206,6 +206,9 @@
     - [Slides](https://drive.google.com/file/d/1GvALVouKxt3i4xboduM0j23xCfZMNtNT/view?usp=sharing){:target="_blank"}
     - [Notes: Instrumental variables](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture17/05_instrumental_variables.ipynb){:target="_blank"}
     - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-17-causal-inference-part-3-causal-inference-in-observational-studies){:target="_blank"}
+  assignment: |
+    - [Vitamin 9](https://www.gradescope.com/courses/486789/assignments/2749622){:target="_blank"} (Due Mar 19)
+    - [Lab 7](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flabs%2Flab07%2Flab07.ipynb){:target="_blank"} (Due Mar 22)
 
 - date: Tuesday 03/21/23
   topic: Concentration inequalities
