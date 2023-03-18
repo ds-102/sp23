@@ -203,7 +203,7 @@
 - date: Thursday 03/16/23
   topic: "Causal Inference III: Observational Studies"
   slides: |
-    - [Slides](https://drive.google.com/file/d/1GvALVouKxt3i4xboduM0j23xCfZMNtNT/view?usp=sharing){:target="_blank"}
+    - [Slides](https://drive.google.com/file/d/1GvALVouKxt3i4xboduM0j23xCfZMNtNT/view?usp=sharing){:target="_blank"} ([Annotated](https://drive.google.com/file/d/1Qpyueatvyt3GZa8iQSU7GzIJVvUJ1a99/view?usp=sharing){:target="_blank"})
     - [Notes: Instrumental variables](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture17/05_instrumental_variables.ipynb){:target="_blank"}
     - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-17-causal-inference-part-3-causal-inference-in-observational-studies){:target="_blank"}
   assignment: |
