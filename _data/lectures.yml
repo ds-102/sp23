@@ -223,9 +223,10 @@
 - date: Thursday 03/23/23
   topic: Bandits I
   slides: |
-    - [Slides](https://docs.google.com/presentation/d/1p44mN1RwtdmD2LffeGjJwTQjax4FQC2O2q-IFsP2cio/edit?usp=sharing){:target="_blank"} ([PDF](https://drive.google.com/file/d/1ZkZFRYFvogqqDO4tVOoWSjNnlBNQc5xa/view?usp=sharing){:target="_blank"})
+    - [Slides](https://docs.google.com/presentation/d/1p44mN1RwtdmD2LffeGjJwTQjax4FQC2O2q-IFsP2cio/edit?usp=sharing){:target="_blank"} ([PDF](https://drive.google.com/file/d/1ZkZFRYFvogqqDO4tVOoWSjNnlBNQc5xa/view?usp=sharing){:target="_blank"}) ([Annotated](https://drive.google.com/file/d/105maCDle8kWFHTrwavKat4bfWoKYCDR-/view?usp=sharing){:target="_blank"})
     - [Demo](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=tree%2Fsp23%2Flecture%2Flecture19%2FMAB_demo.ipynb){:target="_blank"}
     - [Lecture Notes](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=tree%2Fsp23%2Flecture%2Flecture19%2Fbandits_notes.ipynb){:target="_blank"}
+    - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-19-bandits-i){:target="_blank"}
 
 - date: Tuesday 03/28/23
   topic: Spring break
