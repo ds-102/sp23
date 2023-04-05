@@ -36,7 +36,7 @@
 
     <!-- Lecture Column -->
     <!-- Check if it's a midterm -->
-    {% if lecture.topic contains "Midterm" %}
+    {% if lecture.topic contains "Midterm" or lecture.topic contains "Spring" %}
     <!-- Don't count midterm as a lecture; decrement displayed number (incremented in each loop) -->
     	{% assign lecture_counter_disp = lecture_counter_disp | minus: 1 %}
     	<th class="lecture__num"></th>
