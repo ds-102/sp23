@@ -256,6 +256,8 @@
     - [Slides](https://drive.google.com/file/d/1Gu4wZ49my7raUEu_wfPbiO3KVURNXZEj/view?usp=sharing){:target="_blank"}
     - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp23&subPath=lecture/lecture21/reinforcement_learning.ipynb){:target="_blank"}
     - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-21-reinforcement-learning-i){:target="_blank"}
+  assignment: |
+    - [Lab 9](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flabs%2Flab09%2Flab09.ipynb){:target="_blank"}
 
 - date: Tuesday 04/11/23
   topic: Reinforcement Learning 2
