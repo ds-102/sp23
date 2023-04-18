@@ -274,7 +274,9 @@
     - [Homework 6](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw6%2Fhw6.pdf){:target="_blank"} ([PDF](assets/homework/hw6.pdf){:target="_blank"}) (Due Apr 28)
 
 - date: Tuesday 04/18/23
-  topic: Matching Markets and Game Theory
+  topic: Matching Markets
+  slides: |
+    - [Slides](https://drive.google.com/file/d/15R73EPxZwdrI80_RfMphfSqh_TpAgm0y/view?usp=sharing){:target="_blank"}
 
 - date: Thursday 04/20/23
   topic: Differential Privacy
