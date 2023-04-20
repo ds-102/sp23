@@ -285,7 +285,8 @@
 - date: Thursday 04/20/23
   topic: Differential Privacy
   slides: |
-      - [Slides](https://docs.google.com/presentation/d/1kD9sPyfDb_3MRL4VWpZMjmqHIzynx_2GokuONMqsCnU/edit?usp=sharing)
+      - [Slides](https://docs.google.com/presentation/d/1kD9sPyfDb_3MRL4VWpZMjmqHIzynx_2GokuONMqsCnU/edit?usp=sharing){:target="_blank"}
+      - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-24-differential-privacy){:target="_blank"}
 
 - date: Tuesday 04/25/23
   topic: Robustness and generalization
