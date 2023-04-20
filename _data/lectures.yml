@@ -284,6 +284,8 @@
 
 - date: Thursday 04/20/23
   topic: Differential Privacy
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1kD9sPyfDb_3MRL4VWpZMjmqHIzynx_2GokuONMqsCnU/edit?usp=sharing)
 
 - date: Tuesday 04/25/23
   topic: Robustness and generalization
