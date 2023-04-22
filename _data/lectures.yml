@@ -37,7 +37,7 @@
       - (Optional reading) [The Garden of Forking Paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf){:target="_blank"}
   assignment: |
       - [Vitamin 1](https://www.gradescope.com/courses/486789/assignments/2589202/){:target="_blank"} (Due Jan 22)
-      - [HW 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw1){:target="_blank"} ([PDF](assets/homework/hw1.pdf){:target="_blank"}) (Due Feb 3)
+      - [Homework 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw1){:target="_blank"} ([PDF](assets/homework/hw1.pdf){:target="_blank"}) (Due Feb 3)
       - [Lab 0](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flabs%2Flab0%2Flab0.ipynb){:target="_blank"} (Due Jan 25)
 
 - date: Tuesday 01/24/23
@@ -79,7 +79,7 @@
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-6-bayesian-and-frequentist-modeling){:target="_blank"}
   assignment: |
       - [Vitamin 3](https://www.gradescope.com/courses/486789/assignments/2631333){:target="_blank"} (Due Feb 5)
-      - [HW 2](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw2){:target="_blank"} ([PDF](assets/homework/hw2.pdf){:target="_blank"}) (Due Feb 17)
+      - [Homework 2](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw2){:target="_blank"} ([PDF](assets/homework/hw2.pdf){:target="_blank"}) (Due Feb 17)
       - [Lab 2](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flabs%2Flab02%2Flab02.ipynb){:target="_blank"} (Due Feb 8)
 
 
@@ -146,7 +146,7 @@
       - [Recording (Fall 22)](https://www.youtube.com/watch?v=-zqDr44xCPo&list=PLSEfoRJ1f3UO6xTDrREQzgmhs_xRv3kmw){:target="_blank"}
   assignment: |
       - [Vitamin 6](https://www.gradescope.com/courses/486789/assignments/2695478){:target="_blank"} (Due Feb 26)
-      - [HW 3](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw3){:target="_blank"} ([PDF](assets/homework/hw3.pdf){:target="_blank"}) (Due Mar 10)
+      - [Homework 3](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw3){:target="_blank"} ([PDF](assets/homework/hw3.pdf){:target="_blank"}) (Due Mar 10)
 
 - date: Tuesday 02/28/23
   topic: Midterm I (no lecture)
@@ -186,7 +186,7 @@
   assignment: |
     - [Vitamin 8](https://www.gradescope.com/courses/486789/assignments/2715463/){:target="_blank"} (Due Mar 12)
     - [Lab 6](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flabs%2Flab06%2Flab06.ipynb){:target="_blank"} (Due Mar 15)
-    - [HW 4](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw4){:target="_blank"} ([PDF](assets/homework/hw4.pdf){:target="_blank"}) (Due Mar 24)
+    - [Homework 4](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhomeworks%2Fhw4){:target="_blank"} ([PDF](assets/homework/hw4.pdf){:target="_blank"}) (Due Mar 24)
 
 - date: Tuesday 03/14/23
   topic: "Causal Inference II: Randomized Experiments"
@@ -287,6 +287,9 @@
   slides: |
       - [Slides](https://docs.google.com/presentation/d/1kD9sPyfDb_3MRL4VWpZMjmqHIzynx_2GokuONMqsCnU/edit?usp=sharing){:target="_blank"}
       - [Recording](https://bcourses.berkeley.edu/courses/1522029/pages/lecture-24-differential-privacy){:target="_blank"}
+  assignment: |
+      - [Vitamin 12](https://www.gradescope.com/courses/486789/assignments/2839578){:target="_blank"} (Due Apr 23)
+      - [Lab 10](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flabs%2Flab10%2Flab10.ipynb){:target="_blank"} (Due Apr 26)
 
 - date: Tuesday 04/25/23
   topic: Robustness and generalization
